@@ -7,7 +7,7 @@ Autonomous maze-solving robot using FloodFill algorithm. Built on STM32F103C8T6 
 - **MCU:** STM32F103C8T6 (Blue Pill)
 - **Motors:** 2x DC motors with quadrature encoders
 - **Sensors:** 4x IR pairs (2 side, 2 front) for wall detection
-- **Gyro:** MPU9250 via SPI
+- **Gyro:** MPU6500 via SPI
 - **Comms:** HC-05 Bluetooth for debugging
 - **Others:** Passive buzzer
 
