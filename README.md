@@ -46,7 +46,3 @@ Connect Bluetooth at 9600 baud to see live sensor data and decisions:
 L:28 R:31 | PID:2.5 | Spd:72/67
 [FF] DECISION = FORWARD
 ```
-
-## License
-
-MIT
