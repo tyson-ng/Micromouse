@@ -33,11 +33,6 @@ FloodFill.h       - Maze solver, queue, wall mapping
 Speaker.h         - Buzzer sounds
 ```
 
-## Dependencies
-
-- [MPU9250_WE](https://github.com/wollewald/MPU9250_WE)
-- STM32 Arduino core with HardwareTimer support
-
 ## Upload
 
 1. Open `Main.ino` in Arduino IDE
